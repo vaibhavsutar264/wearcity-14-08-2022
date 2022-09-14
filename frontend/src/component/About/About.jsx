@@ -38,7 +38,7 @@ const About = () => {
                   lineHeight: "1.2",
                 }}
               >
-                Welcome to WEARCITY
+                Welcome to WEARCITY 
               </span>
               <p>
                 We cutout the middleman and get money directly into the hands of our weavers
@@ -103,7 +103,7 @@ const About = () => {
                 <div className="flex align__items__center justify__content__center image">
               <img src="http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/icons/icon-4.svg" />
                 </div>
-              <span>Easy Returns Service</span>
+              <span>Easy Returns Services</span>
               </div>
             </div>
 
