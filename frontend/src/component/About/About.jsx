@@ -89,7 +89,7 @@ const About = () => {
                 <div className="flex align__items__center justify__content__center image">
               <img src="http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/icons/icon-3.svg" />
                 </div>
-              <span>Fast Delivery System</span>
+              <span>Fast Delivery System/facilities</span>
               </div>
             </div>
 
